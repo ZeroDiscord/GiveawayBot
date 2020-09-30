@@ -7,9 +7,11 @@ INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
 - [Support Server Link](https://discord.gg/REAW5VM)
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
-
+#License
+**ngnix 2020 all rights reserved**
 **NOTE
 `` THIS BOT DIES IF YOU DON'T USE IT EVERY 5 MINUTES CAN BE EASILY RE-HOSTED BY REGENERATING THE TOKEN AND REPPLACING IT 
 IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM 0_0#6666 THIS MIGHT GET YOUR PROJECT SUSPENDED BUT YOU CAN ALWAYS
 MAKE A NEW ONE USING MY TUTORIAL :D``**
+#Host On Repl.it
 [![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/ZeroDiscord/GiveawayBot)
