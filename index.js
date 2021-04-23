@@ -25,7 +25,6 @@ fs.readdir("./events/", (_err, files) => {
         let eventName = file.split(".")[0];
         console.log(`👌 Event loaded: ${eventName}`);
         client.on(eventName, event.bind(null, client));
-        delete require.cache[require.resolve(`./events/${file}`)];
     });
 });
 
