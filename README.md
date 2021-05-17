@@ -1,3 +1,6 @@
+# [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/ZeroDiscord/Giveaway)
+- [Check Out This Video!](https://www.youtube.com/watch?v=9E6gREwQH6o)
+
 **This Giveaway bot was created by 0_0#6666**
 
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
