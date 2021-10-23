@@ -1,4 +1,4 @@
-# [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/ZeroDiscord/Giveaway)
+# [Check out this new repository for Giveaway Requirements and Bonus Entries‼️](https://github.com/ZeroDiscord/Giveaway)
 - [Check Out This Video!](https://www.youtube.com/watch?v=9E6gREwQH6o)
 
 **This Giveaway bot was created by 0_0#6666**
